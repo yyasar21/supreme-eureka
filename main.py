@@ -5,6 +5,9 @@ x = x + 10
 y = 20
 y = y - 5
 z = x + 
+
+t = z / y
+
 print("The value of z is:", z)
 
 print("The value of x is:", x)
