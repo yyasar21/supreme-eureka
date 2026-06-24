@@ -18,3 +18,4 @@ print("The value of z is:", z)
 
 print("ben uzak repoda direk degisiklik yaptim")
 print("Ben direk pushlarim :D")
+print("Branch locklama ozelligi acildi")
